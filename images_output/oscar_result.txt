@@ -1,0 +1,13 @@
+Image : oscar_result
+- Face #1 found at Left: 70 Top: 50 Right: 106 Bottom: 86
+- Face #2 found at Left: 180 Top: 50 Right: 216 Bottom: 86
+- Face #3 found at Left: 260 Top: 70 Right: 303 Bottom: 113
+- Face #4 found at Left: 340 Top: 70 Right: 376 Bottom: 106
+- Face #5 found at Left: 370 Top: 140 Right: 432 Bottom: 202
+- Face #6 found at Left: 430 Top: 110 Right: 466 Bottom: 146
+- Face #7 found at Left: 30 Top: 300 Right: 73 Bottom: 343
+- Face #8 found at Left: 300 Top: 70 Right: 343 Bottom: 113
+- Face #9 found at Left: 440 Top: 80 Right: 483 Bottom: 123
+- Face #10 found at Left: 500 Top: 80 Right: 543 Bottom: 123
+- Face #11 found at Left: 500 Top: 110 Right: 543 Bottom: 153
+- Face #12 found at Left: 330 Top: 100 Right: 382 Bottom: 152

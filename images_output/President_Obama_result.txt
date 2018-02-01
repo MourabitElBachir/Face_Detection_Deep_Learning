@@ -1,0 +1,2 @@
+Image : President_Obama_result
+- Face #1 found at Left: 120 Top: 100 Right: 305 Bottom: 285

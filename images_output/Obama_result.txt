@@ -1,0 +1,5 @@
+Image : Obama_result
+- Face #1 found at Left: 240 Top: 90 Right: 425 Bottom: 275
+- Face #2 found at Left: 630 Top: 240 Right: 666 Bottom: 276
+- Face #3 found at Left: 630 Top: 0 Right: 692 Bottom: 62
+- Face #4 found at Left: 650 Top: 140 Right: 686 Bottom: 176

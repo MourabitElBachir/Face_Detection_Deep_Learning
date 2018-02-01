@@ -1,0 +1,6 @@
+Image : Friends_season_one_cast_result
+- Face #1 found at Left: 90 Top: 70 Right: 126 Bottom: 106
+- Face #2 found at Left: 160 Top: 150 Right: 196 Bottom: 186
+- Face #3 found at Left: 210 Top: 50 Right: 253 Bottom: 93
+- Face #4 found at Left: 210 Top: 140 Right: 246 Bottom: 176
+- Face #5 found at Left: 290 Top: 260 Right: 333 Bottom: 303
