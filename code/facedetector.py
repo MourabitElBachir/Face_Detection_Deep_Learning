@@ -34,11 +34,12 @@ def face_detector_image_of_repo(input_image='data_detection', output_image='imag
     # Display Result :
     display_recognition(input_image, output_image, faces_windows_output, 0)
 
+
 if __name__ == '__main__':
 
     print(len(sys.argv))
     if (len(sys.argv)) == 1:
-        face_detector_image('../images_input/Donald-and-Melania.jpg', '../images_output')
+        face_detector_image('../images_input/Obama.jpg', '../images_output')
 
     elif (len(sys.argv)) == 3:
         face_detector_image(sys.argv[1], sys.argv[2])
