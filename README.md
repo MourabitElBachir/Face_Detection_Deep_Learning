@@ -71,11 +71,11 @@ Since this is also a class project, we wanted to learn the several things from i
 
 + #### Data :
 
-  - ##### Contains two repository : Train, Test ##### 
+  - Contains two repository : Train, Test
 
-  - ##### The train repository : Should contain two repository ['face', 'notFace'] ##### 
+  - The train repository : Should contain two repository ['face', 'notFace']
   
-  - ##### The test repository : Should contain two repository ['face', 'notFace'] ##### 
+  - The test repository : Should contain two repository ['face', 'notFace'] 
 
 
  
