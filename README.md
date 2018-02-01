@@ -103,6 +103,17 @@ Since this is also a class project, we wanted to learn the several things from i
   
   
 ## Evaluation graphs for training :
+
+
+### Evaluation 1 : 
+
+![Result3](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/evaluation/evaluation1.PNG)
+
+### Evaluation 2 : 
   
+![Result3](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/evaluation/evaluation2.PNG)
+
+### Evaluation 3 : 
   
+![Result3](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/evaluation/evaluation3.PNG)
   
