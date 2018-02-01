@@ -81,6 +81,10 @@ Since this is also a class project, we wanted to learn the several things from i
   - The train repository : Should contain two repository ['face', 'notFace']
   
   - The test repository : Should contain two repository ['face', 'notFace'] 
+  
++ #### Informations :
+
+  - Contains the training and test database in a '.npy' file format. 
 
 
 ## Running the project:
@@ -98,6 +102,7 @@ Since this is also a class project, we wanted to learn the several things from i
 ![Result3](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/images_output/Obama_result.jpg)
   
   
+## Evaluation graphs for training :
   
   
   
