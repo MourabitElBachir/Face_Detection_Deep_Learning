@@ -1,6 +1,11 @@
 # Face Detection Deep Learning
 Implementation of a face detector based on a convolutional neural network
 
+## Project Members
+
+MOURABIT EL BACHIR
+DAIF ARIJ
+BELGHARIB ZAKARIA
 
 ## Aim
 
