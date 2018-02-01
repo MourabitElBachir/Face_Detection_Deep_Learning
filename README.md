@@ -12,7 +12,7 @@ Since this is also a class project, we wanted to learn the several things from i
 - Training: Implement many models of neural networks to obtain good results; 
 - Crop and Scale algorithms to classify faces in images.
 - Algorithms of clustering such as DBSCAN and MeanShift.
-- OpenCV functionnalities for showing images and create rectangles when finding face.
+- OpenCV functionnalities for showing images and create rectangles when finding faces.
 
 ## Running the project:
 
