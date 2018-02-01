@@ -45,7 +45,9 @@ Since this is also a class project, we wanted to learn the several things from i
   
 ## Description of the packages
 
-+ Code: Contains all files to execute the project and also contain 'log/' repository to use with tensorBoard if we want to show graphs 		of accuracy and loss
++ #### Code: 
+	
+   Contains all files to execute the project and also contain 'log/' repository to use with tensorBoard if we want to show graphs 	    of accuracy and loss
 
   - Le fichier "env_variables.py" : Define all important variable to start the main functionalities of our deep face detector
 
@@ -63,11 +65,11 @@ Since this is also a class project, we wanted to learn the several things from i
   
   - Le fichier "training.py" : The training part, at the last step we save the model to use it in detection tests part
 
-+ models :
++ #### models :
 
 	- Contains all neural network models, and we use the model specified in the "env_variables.py" file
 
-+ Data :
++ #### Data :
 
   - ##### Contains two repository : Train, Test ##### 
 
