@@ -30,7 +30,7 @@ RECTANGLES = ['x', 'y', 'width', 'height', 'score']
 #DEFAULT EPS for clustering distances
 DEFAULT_DBSCAN_EPS = 0.5
 # 0 For mean cluster representative method and 1 for argmax
-CLUSTER_REPRESENTATIVE_METHOD = 0
+CLUSTER_REPRESENTATIVE_METHOD = 1
 
 # 1: DBSCAN, 0: MeanShift
 DBSCAN_OR_MeanShift = 1

@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
     print(len(sys.argv))
     if (len(sys.argv)) == 1:
-        face_detector_image('../single_test/28-10-16-499784761.jpg', '../images_results')
+        face_detector_image('../images_input/Donald-and-Melania.jpg', '../images_output')
 
     elif (len(sys.argv)) == 3:
         face_detector_image(sys.argv[1], sys.argv[2])
