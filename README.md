@@ -29,7 +29,7 @@ Since this is also a class project, we wanted to learn the several things from i
 
 - Console mode:
 	+ access the project repository in the console  
-	+ run "python facedetector.py <image-src-location> <repository-to-store-image>" with the python interpreter in you installed 		everything.
+	+ run "python facedetector.py {image-src-location} {repository-to-store-image}" with the python interpreter in you installed 		everything.
 
 - PyCharm mode:
   + run "facedetector.py" with the main program.
@@ -38,7 +38,7 @@ Since this is also a class project, we wanted to learn the several things from i
  
  - Console mode:
 	+ access the project repository in the console  
-	+ run "python repositorydetector.py <repository-src-location> <repository-to-store-images>" with the python interpreter in you 		installed everything.
+	+ run "python repositorydetector.py {repository-src-location} {repository-to-store-images}" with the python interpreter in you 		installed everything.
 
  - PyCharm mode:
   + run "repositorydetector.py" with the main program.
