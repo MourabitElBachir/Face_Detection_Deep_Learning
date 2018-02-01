@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\bachir\\PycharmProjects\\Face_Detection_Deep_Learning\\models\\faceDetection-1e-05-2conv-basic.model"
+all_model_checkpoint_paths: "C:\\Users\\bachir\\PycharmProjects\\Face_Detection_Deep_Learning\\models\\faceDetection-1e-05-2conv-basic.model"
