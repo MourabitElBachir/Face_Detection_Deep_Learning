@@ -83,9 +83,19 @@ Since this is also a class project, we wanted to learn the several things from i
   - The test repository : Should contain two repository ['face', 'notFace'] 
 
 
+## Running the project:
+
+### Result 1 : 
  
- 
-  
+![Result1](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/images_output/President_Obama_result.png)
+
+### Result 2 :
+
+![Result2](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/images_output/Friends_season_one_cast_result.jpg)
+
+### Result 3 :
+
+![Result3](https://github.com/MourabitElBachir/Face_Detection_Deep_Learning/blob/master/images_output/Obama_result.jpg)
   
   
   
